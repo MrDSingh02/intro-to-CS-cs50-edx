@@ -1,7 +1,7 @@
 # CS50's Introduction to Computer Science
 CS50x 2023
 
-0. >Scratch
+0. > Scratch
 1. C
 1. Arrays
 1. Algorithms
